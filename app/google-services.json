@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783143243539",
+    "firebase_url": "https://chords-fad23.firebaseio.com",
+    "project_id": "chords-fad23",
+    "storage_bucket": "chords-fad23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783143243539:android:3d1de19d78b76e6a9ed4e6",
+        "android_client_info": {
+          "package_name": "algo.mm.mmchords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783143243539-5tlsscuul59qgb9sjhqm1c6k8i5v6jql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYF47KqcVHJUiyKa9_nMHsbFeIe1ChoW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783143243539-5tlsscuul59qgb9sjhqm1c6k8i5v6jql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

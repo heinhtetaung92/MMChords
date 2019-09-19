@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MM Chords</string>
+    <string name="no_internet">Disconnected</string>
+    <string name="retry">Retry</string>
+</resources>
